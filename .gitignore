@@ -21,3 +21,6 @@ Thumbs.db
 *.dll
 *.lib
 *.sbr
+MvcMovie/MvcMovie/App_Data/
+MvcMovie/MvcMovie/bin/
+MvcMovie/MvcMovie/obj/Debug/
